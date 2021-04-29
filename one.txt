@@ -1,2 +1,5 @@
 hello world
+<<<<<<< HEAD
 change file,hello lifansheng
+=======
+>>>>>>> 1d4dd5caf17bee6a42e9a94a2d065b10ceabb975
